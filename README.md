@@ -13,4 +13,5 @@
 ### 출력 예시
 
 ![output example](images/output_example.PNG "output_example")
+![airmate_navigation](images/output_example.PNG "output")
 
