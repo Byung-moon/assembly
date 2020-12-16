@@ -12,6 +12,6 @@
  
 ## 출력 예시
 
-![output example](images/output_example.PNG "output_example")
+![output example](https://github.com/Byung-moon/assembly/blob/master/images/ouput_example.PNG)
 
 
