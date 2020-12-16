@@ -10,8 +10,8 @@
  
  - 2진수, 8진수, 16진수로 변환 가능합니다.
  
-### 출력 예시
+## 출력 예시
 
 ![output example](images/output_example.PNG "output_example")
-![airmate_navigation](images/output_example.PNG "output")
+
 
