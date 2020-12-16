@@ -12,5 +12,5 @@
  
 ### 출력 예시
 
-![output_example](images/output_example.PNG "output_example")
+![output example](images/output_example.PNG "output_example")
 
