@@ -14,14 +14,14 @@
 
 ![output example](https://github.com/Byung-moon/assembly/blob/master/images/ouput_example.PNG)
 
-### 2진수 변환 출력
+> ### 2진수 변환 출력
 
 ![base2](https://github.com/Byung-moon/assembly/blob/master/images/2%EC%A7%84%EC%88%98%EB%B3%80%ED%99%98%EC%B6%9C%EB%A0%A5.PNG)
 
-### 8진수 변환 출력
+> ### 8진수 변환 출력
 
 ![base8](https://github.com/Byung-moon/assembly/blob/master/images/8%EC%A7%84%EC%88%98%EB%B3%80%ED%99%98%EC%B6%9C%EB%A0%A5.PNG)
 
-### 16진수 변환 출력
+> ### 16진수 변환 출력
 
 ![base16](https://github.com/Byung-moon/assembly/blob/master/images/16%EC%A7%84%EC%88%98%EB%B3%80%ED%99%98%EC%B6%9C%EB%A0%A5.PNG)
